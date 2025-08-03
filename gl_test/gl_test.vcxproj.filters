@@ -32,6 +32,15 @@
     <None Include="default.frag">
       <Filter>Resource Files\Shaders</Filter>
     </None>
+    <None Include="light.frag">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="colors.frag">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="light_cube.frag">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shaderClass.h">

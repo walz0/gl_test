@@ -141,8 +141,11 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="colors.frag" />
     <None Include="default.frag" />
     <None Include="default.vert" />
+    <None Include="light.frag" />
+    <None Include="light_cube.frag" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="camera.h" />
